@@ -1,4 +1,4 @@
-This notice lists all license stipulations from dependencies. 
+This notice lists all license stipulations from dependencies outside of major OSI and FSF reviewed licenses. 
 
 TinyXML-2 is released under the zlib license
 
