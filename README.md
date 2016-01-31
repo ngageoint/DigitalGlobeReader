@@ -1,4 +1,4 @@
-## Digital Globe Mapper
+## Digital Globe Reader
 
 This C++ class is a "bare bones" class designed to read Digital Globe imagery files (GeoTiff) and meta-data (XML) files. The class has the ability to load imagery data into a set of arrays (1 per band) and to project the imagery onto a ground plane (it acts like a slide projector and projects the image onto a 2D screen). 
 
