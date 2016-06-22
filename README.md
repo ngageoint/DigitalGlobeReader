@@ -1,6 +1,6 @@
-## Digital Globe Reader
+## DigitalGlobe Reader
 
-This C++ class is a "bare bones" class designed to read Digital Globe imagery files (GeoTiff) and meta-data (XML) files. The class has the ability to load imagery data into a set of arrays (1 per band) and to project the imagery onto a ground plane (it acts like a slide projector and projects the image onto a 2D screen). 
+This C++ class is a "bare bones" class designed to read DigitalGlobe imagery files (GeoTiff) and meta-data (XML) files. The class has the ability to load imagery data into a set of arrays (1 per band) and to project the imagery onto a ground plane (it acts like a slide projector and projects the image onto a 2D screen). 
 
 Documentation is extensive both within the documentation files in this repo and inline within the class.
 
